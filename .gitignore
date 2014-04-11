@@ -1,0 +1,12 @@
+/bin
+/doc
+*.class
+
+*.user
+
+*.ucls
+
+# Package Files #
+*.jar
+*.war
+*.ear
